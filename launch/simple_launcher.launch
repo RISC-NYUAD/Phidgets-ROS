@@ -1,0 +1,6 @@
+<launch>
+	
+	<node name="load_cell_reader" pkg="phidgets_ros" type="triplet_100Kg.py" output="screen"/>
+
+
+</launch>
